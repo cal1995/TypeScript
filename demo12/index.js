@@ -1,2 +1,2 @@
 
-//ts 中的 extend、keyof、as、include、exclude
+//ts 中的 extends、keyof、as、include、exclude
